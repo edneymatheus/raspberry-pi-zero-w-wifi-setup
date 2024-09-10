@@ -110,3 +110,12 @@ Agora sua Raspberry Pi Zero W está configurada no modo Wi-Fi e acessível via S
 ### Considerações Finais
 Este tutorial foi criado para oferecer uma maneira rápida e prática de configurar sua Raspberry Pi Zero W. Utilizamos a imagem Raspberry Pi OS (Legacy, 32-bit) devido à sua estabilidade e compatibilidade com o hardware da Raspberry Pi Zero W, algo que versões mais recentes não garantiram consistentemente.
 
+---
+
+## Backup Pessoal da Imagem do Raspberry Pi OS
+
+Este repositório contém o link para o backup da imagem do **Raspberry Pi OS (Legacy, 32-bit)** para Raspberry Pi Zero W.
+
+Link para a imagem: [Google Drive Backup](https://drive.google.com/file/d/1ARpFssfaXqQqfTyeAVscqQLd-_WCvMai/view?usp=sharing)
+
+
